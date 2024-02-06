@@ -1,0 +1,11 @@
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\bin\Debug\net8.0\CompanyExercise.deps.json
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\bin\Debug\net8.0\CompanyExercise.dll
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\bin\Debug\net8.0\CompanyExercise.pdb
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\obj\Debug\net8.0\CompanyExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\obj\Debug\net8.0\CompanyExercise.AssemblyInfoInputs.cache
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\obj\Debug\net8.0\CompanyExercise.AssemblyInfo.cs
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\obj\Debug\net8.0\CompanyExercise.csproj.CoreCompileInputs.cache
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\obj\Debug\net8.0\CompanyExercise.dll
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\obj\Debug\net8.0\refint\CompanyExercise.dll
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\obj\Debug\net8.0\CompanyExercise.pdb
+C:\Users\legot\source\repos\Predrok2324\CompanyExercise\obj\Debug\net8.0\ref\CompanyExercise.dll

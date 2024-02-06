@@ -1,0 +1,11 @@
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\bin\Debug\net8.0\IoTExercise.deps.json
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\bin\Debug\net8.0\IoTExercise.dll
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\bin\Debug\net8.0\IoTExercise.pdb
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\obj\Debug\net8.0\IoTExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\obj\Debug\net8.0\IoTExercise.AssemblyInfoInputs.cache
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\obj\Debug\net8.0\IoTExercise.AssemblyInfo.cs
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\obj\Debug\net8.0\IoTExercise.csproj.CoreCompileInputs.cache
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\obj\Debug\net8.0\IoTExercise.dll
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\obj\Debug\net8.0\refint\IoTExercise.dll
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\obj\Debug\net8.0\IoTExercise.pdb
+C:\Users\legot\source\repos\Predrok2324\IoTExercise\obj\Debug\net8.0\ref\IoTExercise.dll

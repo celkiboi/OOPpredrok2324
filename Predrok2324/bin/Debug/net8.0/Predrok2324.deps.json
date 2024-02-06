@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Predrok2324/1.0.0": {
+        "dependencies": {
+          "CircleExercise": "1.0.0",
+          "CompanyExercise": "1.0.0",
+          "IoTExercise": "1.0.0"
+        },
+        "runtime": {
+          "Predrok2324.dll": {}
+        }
+      },
+      "CircleExercise/1.0.0": {
+        "runtime": {
+          "CircleExercise.dll": {}
+        }
+      },
+      "CompanyExercise/1.0.0": {
+        "runtime": {
+          "CompanyExercise.dll": {}
+        }
+      },
+      "IoTExercise/1.0.0": {
+        "runtime": {
+          "IoTExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Predrok2324/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CircleExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IoTExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

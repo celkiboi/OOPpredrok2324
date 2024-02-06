@@ -1,0 +1,11 @@
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\bin\Debug\net8.0\CircleExercise.deps.json
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\bin\Debug\net8.0\CircleExercise.dll
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\bin\Debug\net8.0\CircleExercise.pdb
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\obj\Debug\net8.0\CircleExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\obj\Debug\net8.0\CircleExercise.AssemblyInfoInputs.cache
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\obj\Debug\net8.0\CircleExercise.AssemblyInfo.cs
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\obj\Debug\net8.0\CircleExercise.csproj.CoreCompileInputs.cache
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\obj\Debug\net8.0\CircleExercise.dll
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\obj\Debug\net8.0\refint\CircleExercise.dll
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\obj\Debug\net8.0\CircleExercise.pdb
+C:\Users\legot\source\repos\Predrok2324\CircleExercise\obj\Debug\net8.0\ref\CircleExercise.dll
